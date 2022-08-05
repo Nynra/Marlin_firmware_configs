@@ -14,3 +14,6 @@ This branch contains the config files for the 'old' Tweehek 3D printer. The Marl
 - Disable M503 True (Due to progmem shortage)
 - Resume after power loss True
 - Manual probing mesh 4x4
+
+## Known issues
+- Printer sometimes wont go into boot mode when firmware is uploaded from a pc. The issue can be circumvented by putting the firmware binary on a small SD card (smaller==better) and booting the printer with the SD mounted
