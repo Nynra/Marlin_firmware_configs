@@ -1,5 +1,5 @@
 # Marlin Bugfix 2.1.x
-This branch contains the config files for the 'old' Tweehek 3D printer. The Marlin firmware can be downloaded [here](https://github.com/MarlinFirmware/Marlin/tree/bugfix-2.1.x).
+This branch contains the config files for the 'old' Tweehek 3D printer. The Marlin firmware source code can be downloaded [here](https://github.com/MarlinFirmware/Marlin/tree/bugfix-2.1.x).
 
 ## Printer specs
 - Creality Ender 3 Pro
