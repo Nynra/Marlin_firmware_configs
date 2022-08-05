@@ -19,9 +19,8 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  *
  */
-#pragma once
 
-#define CONFIG_EXAMPLES_DIR "Creality/Ender-3 Pro/CrealityV1"
+#define CONFIG_EXAMPLES_DIR "Creality/Ender-3 Pro/CrealityV422"
 
 /**
  * Custom Boot Screen bitmap
@@ -32,8 +31,9 @@
  * Use the Marlin Bitmap Converter to make your own:
  * https://marlinfw.org/tools/u8glib/converter.html
  */
+#pragma once
 
-#define CUSTOM_BOOTSCREEN_TIMEOUT 1000
+#define CUSTOM_BOOTSCREEN_TIMEOUT 3000
 #define CUSTOM_BOOTSCREEN_BMPWIDTH 127
 //#define CUSTOM_BOOTSCREEN_BMPHEIGHT
 /**
