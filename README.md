@@ -9,6 +9,7 @@ This branch contains the config files for the Eaglediksix 3D printer a.k.a. Bert
 ## Config changes
 - PREHEAT_BEFORE_LEVELING: Bed heats to 50C before homing or meshing Z axis (more accurate mesh leveling)
 - Advanced pauzing True
+- Z_SAFE_HOMING
 - GRID_MAX_POINTS_X: Mesh 3x3 (5x5 not used because of glass bed)
 - PROBING_MARGIN: Probe margin from 10mm to 20mm
 
